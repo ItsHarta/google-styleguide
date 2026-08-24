@@ -1,0 +1,3 @@
+# Assembled by setup.sh from output-styles/ plus rules/. Never tracked, so a
+# run leaves the working tree clean.
+build/

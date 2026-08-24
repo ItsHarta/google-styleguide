@@ -1,0 +1,55 @@
+google-styleguide
+Copyright (c) 2026 ItsHarta
+
+This project is not affiliated with, endorsed by, or sponsored by Google. The
+name refers to the source material it packages, not to any Google product.
+
+
+LICENSING
+=========
+
+This repository carries two licenses, split by what the file is.
+
+  setup.sh                  MIT License. See LICENSE.
+
+  rules/                    Creative Commons Attribution 4.0 International.
+  skills/                   See LICENSE-DOCS.
+  output-styles/
+
+  README.md                 Creative Commons Attribution 4.0 International.
+
+
+THIRD-PARTY CONTENT
+===================
+
+The files under rules/, skills/, and output-styles/ are condensed and
+reorganized from work created and shared by Google. None of it is reproduced
+in full. Each file names the upstream pages it draws from; consult those pages
+for authoritative wording.
+
+  Google developer documentation style guide
+  https://developers.google.com/style
+  Creative Commons Attribution 4.0 International
+  https://creativecommons.org/licenses/by/4.0/
+
+  Google style guides
+  https://github.com/google/styleguide
+  Creative Commons Attribution 3.0
+  https://creativecommons.org/licenses/by/3.0/
+
+  Google engineering practices
+  https://github.com/google/eng-practices
+  Creative Commons Attribution 3.0
+  https://creativecommons.org/licenses/by/3.0/
+
+
+ATTRIBUTION
+===========
+
+Portions of this project are reproduced from work created and shared by Google
+and used according to terms described in the Creative Commons 4.0 Attribution
+License.
+
+Changes were made. The upstream material has been condensed, reorganized, and
+rewritten for use as always-on instructions and on-demand references for
+command-line coding agents. It is not a verbatim copy of any Google document.
